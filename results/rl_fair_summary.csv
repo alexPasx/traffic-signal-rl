@@ -1,0 +1,2 @@
+controller,seed,duration_s,entered_vehicles,arrived_vehicles,remaining_vehicles,pending_insertion,teleport_events,mean_observed_wait_s,p95_observed_wait_s,max_observed_wait_s,vehicles_over_30s,mean_stopped_vehicles,total_base_reward,total_fairness_penalty
+rl_fair,42,600,422,378,44,0,0,21.708530805687204,72.0,100.0,79,15.268333333333333,-93.16000000000008,52.46733333333332
