@@ -1,0 +1,13 @@
+phase,signal_index,color,incoming_lane,outgoing_lane,via_lane
+0,0,G,n_t_0,t_w_0,:t_0_0
+0,1,G,n_t_0,t_s_0,:t_1_0
+0,6,G,s_t_0,t_e_0,:t_6_0
+0,7,G,s_t_0,t_n_0,:t_7_0
+2,2,G,n_t_1,t_e_1,:t_2_0
+2,8,G,s_t_1,t_w_1,:t_8_0
+4,3,G,e_t_0,t_n_0,:t_3_0
+4,4,G,e_t_0,t_w_0,:t_4_0
+4,9,G,w_t_0,t_s_0,:t_9_0
+4,10,G,w_t_0,t_e_0,:t_10_0
+6,5,G,e_t_1,t_s_1,:t_5_0
+6,11,G,w_t_1,t_n_1,:t_11_0

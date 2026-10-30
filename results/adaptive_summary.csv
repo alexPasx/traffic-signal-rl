@@ -1,0 +1,2 @@
+controller,seed,duration_s,entered_vehicles,arrived_vehicles,remaining_vehicles,pending_insertion,teleport_events,mean_observed_wait_s,p95_observed_wait_s,max_observed_wait_s,mean_stopped_vehicles,green_duration_violations,yellow_duration_violations,phase_sequence_errors
+adaptive,42,600,398,340,58,24,0,36.80904522613066,70.0,85.0,24.416666666666668,0,0,0
